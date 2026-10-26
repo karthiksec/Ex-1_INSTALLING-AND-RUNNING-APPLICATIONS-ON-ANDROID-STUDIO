@@ -1,6 +1,6 @@
 # Ex-1_INSTALLING-AND-RUNNING-APPLICATIONS-ON-ANDROID-STUDIO
 even_term_ii_2025-26
-## NAME: Karthik G
+## NAME: KARTHIK G
 ## Register number: 212223220043
 
 # Android Studio Installation and Running Applications
